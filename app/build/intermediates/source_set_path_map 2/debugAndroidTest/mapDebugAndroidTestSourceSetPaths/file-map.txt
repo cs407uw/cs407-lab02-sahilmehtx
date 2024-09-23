@@ -1,0 +1,5 @@
+com.cs407.lab2.test.app-core-1.6.1-0 /Users/sahilmehtx/.gradle/caches/transforms-4/f1de0c4edc1152409866ec97a8de439c/transformed/core-1.6.1/res
+com.cs407.lab2.test.app-androidTest-1 /Users/sahilmehtx/Desktop/CS407/lab2/app/build/generated/res/resValues/androidTest/debug
+com.cs407.lab2.test.app-mergeDebugAndroidTestResources-2 /Users/sahilmehtx/Desktop/CS407/lab2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.cs407.lab2.test.app-mergeDebugAndroidTestResources-3 /Users/sahilmehtx/Desktop/CS407/lab2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.cs407.lab2.test.app-debugAndroidTest-4 /Users/sahilmehtx/Desktop/CS407/lab2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
